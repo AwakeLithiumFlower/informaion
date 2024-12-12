@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Tianjian Liu"
 description              : &description "I am now a master student in Beijing jiaotong university, major in applied cryptography & Web 3.0 & blockchain."
 url                      : https://awakelithiumflower.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/informaion/CV" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/informaion" # the subpath of your site, e.g. "/blog"
 repository               : "AwakeLithiumFlower/informaion"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
