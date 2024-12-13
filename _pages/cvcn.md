@@ -22,6 +22,7 @@ author_profile: true
 
     * 最近推荐的书：《长日将尽》—— 石黑一雄 （不要将有限的人生浪费在宏大叙事中）
     * 最近推荐的番剧：《情热传说 THE X》（正经番剧，中规中矩的日式RPG改，还有，我不是二次元 :imp: ）
+    * 最近推荐的游戏：《女神异闻录5》
 
 * 目前梦想
     * 退休后开一家提供喷涂环境的中古玩具店
@@ -37,8 +38,10 @@ author_profile: true
 正经的其他信息（大概）
 ======
 * paper
-    * ASOZ: a decentralized payment system with privacy preserving and auditing on public blockchain. (SecureComm 2024)[link](https://eprint.iacr.org/2023/1816)[code_link](https://github.com/AwakeLithiumFlower/ASOZ)
-    * The Illusion of Anonymity: Uncovering the Impact of User Actions on Privacy in Web3 Social Ecosystems. [link](https://arxiv.org/abs/2405.13380)
+    * ASOZ: a decentralized payment system with privacy preserving and auditing on public blockchain. (SecureComm 2024)
+    <!-- [link](https://eprint.iacr.org/2023/1816)[code_link](https://github.com/AwakeLithiumFlower/ASOZ) -->
+    * The Illusion of Anonymity: Uncovering the Impact of User Actions on Privacy in Web3 Social Ecosystems. 
+    <!-- [link](https://arxiv.org/abs/2405.13380) -->
     * Web 3.0前沿技术研究综述
 * patent
     * 一种基于区块链大规模交易的隐私保护与监管的方法
