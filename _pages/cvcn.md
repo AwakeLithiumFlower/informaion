@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "CV-cn"
+permalink: /cvcn/
 author_profile: true
-redirect_from:
-  - /
+# redirect_from:
+#   - /
 ---
 
 <!-- {% include base_path %} -->
