@@ -1,2 +1,2 @@
 # Academic Pages
-**Academic Pages is a Github Pages template for academic websites.**
+**This is a fork from https://github.com/academicpages/academicpages.github.io**
